@@ -1,8 +1,5 @@
 //Select DOM Items
 
-//menuBtn->variable
-//document->property
-//querySelector->method, içine ne yazarsak onu seçer
 const menuBtn = document.querySelector(".menu-btn");
 const menu = document.querySelector(".menu");
 const menuNav = document.querySelector(".menu-nav");
